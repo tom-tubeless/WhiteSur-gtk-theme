@@ -27,7 +27,7 @@
 @define-color warning_color #{"" + $warning_color};
 @define-color error_color #{"" + $error_color};
 @define-color success_color #{"" + $success_color};
-@define-color placeholder_text_color #{#A8A8A8};
+@define-color placeholder_text_color #{#fbf1c7};
 @define-color link_color #{"" + $link_color};
 @define-color content_view_bg #{"" + $base_color};
 
@@ -92,47 +92,47 @@ $wm_bg_unfocused: opacify($header_bg_backdrop, 1);
 //
 
 //* Strawberry *
-@define-color STRAWBERRY_100 #{#FF9262};
-@define-color STRAWBERRY_300 #{#FF793E};
-@define-color STRAWBERRY_500 #{#F15D22};
-@define-color STRAWBERRY_700 #{#CF3B00};
-@define-color STRAWBERRY_900 #{#AC1800};
+@define-color STRAWBERRY_100 #{#fec8c2};
+@define-color STRAWBERRY_300 #{#fc8071};
+@define-color STRAWBERRY_500 #{#fb4934};
+@define-color STRAWBERRY_700 #{#fa3927};
+@define-color STRAWBERRY_900 #{#f82115};
 //* Orange *
-@define-color ORANGE_100 #{#FFDB91};
-@define-color ORANGE_300 #{#FFCA40};
-@define-color ORANGE_500 #{#FAA41A};
-@define-color ORANGE_700 #{#DE8800};
-@define-color ORANGE_900 #{#C26C00};
+@define-color ORANGE_100 #{#ffd9ba};
+@define-color ORANGE_300 #{#fea65e};
+@define-color ORANGE_500 #{#fe8019};
+@define-color ORANGE_700 #{#fe6d12};
+@define-color ORANGE_900 #{#fd5008};
 //* Banana *
-@define-color BANANA_100 #{#FFFFA8};
-@define-color BANANA_300 #{#FFFA7D};
-@define-color BANANA_500 #{#FFCE51};
-@define-color BANANA_700 #{#D1A023};
-@define-color BANANA_900 #{#A27100};
+@define-color BANANA_100 #{#feebc1};
+@define-color BANANA_300 #{#fcd16d};
+@define-color BANANA_500 #{#fabd2f};
+@define-color BANANA_700 #{#f9ae23};
+@define-color BANANA_900 #{#f69812};
 //* Lime *
-@define-color LIME_100 #{#A2F3BE};
-@define-color LIME_300 #{#8ADBA6};
-@define-color LIME_500 #{#73C48F};
-@define-color LIME_700 #{#479863};
-@define-color LIME_900 #{#1C6D38};
+@define-color LIME_100 #{#eaebbe};
+@define-color LIME_300 #{#cdcf67};
+@define-color LIME_500 #{#b8bb26};
+@define-color LIME_700 #{#a8ac1c};
+@define-color LIME_900 #{#91960d};
 //* Blueberry *
-@define-color BLUEBERRY_100 #{#94A6FF};
-@define-color BLUEBERRY_300 #{#6A7CE0};
-@define-color BLUEBERRY_500 #{#3F51B5};
-@define-color BLUEBERRY_700 #{#213397};
-@define-color BLUEBERRY_900 #{#031579};
+@define-color BLUEBERRY_100 #{#dae4e0};
+@define-color BLUEBERRY_300 #{#a8c0b7};
+@define-color BLUEBERRY_500 #{#83a598};
+@define-color BLUEBERRY_700 #{#709385};
+@define-color BLUEBERRY_900 #{#53796a};
 //* Grape *
-@define-color GRAPE_100 #{#D25DE6};
-@define-color GRAPE_300 #{#B84ACB};
-@define-color GRAPE_500 #{#9C27B0};
-@define-color GRAPE_700 #{#830E97};
-@define-color GRAPE_900 #{#6A007E};
+@define-color GRAPE_100 #{#f2dbe1};
+@define-color GRAPE_300 #{#e0aab9};
+@define-color GRAPE_500 #{#d3869b};
+@define-color GRAPE_700 #{#c87389};
+@define-color GRAPE_900 #{#b7566d};
 //* Cocoa *
-@define-color COCOA_100 #{#9F9792};
-@define-color COCOA_300 #{#7B736E};
-@define-color COCOA_500 #{#574F4A};
-@define-color COCOA_700 #{#463E39};
-@define-color COCOA_900 #{#342C27};
+@define-color COCOA_100 #{#cbc8c7};
+@define-color COCOA_300 #{#85807d};
+@define-color COCOA_500 #{#504945};
+@define-color COCOA_700 #{#403936};
+@define-color COCOA_900 #{#27211f};
 //* Silver *
 @define-color SILVER_100 #{#EEE};
 @define-color SILVER_300 #{#CCC};
